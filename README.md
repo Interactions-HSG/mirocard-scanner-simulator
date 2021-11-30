@@ -15,7 +15,7 @@ Simulated samping rates:
 
 ## Dependencies
 - [Python3](https://www.python.org/downloads/)
-- [pip3](https://pip.pypa.io/en/stable/installation/)
+- [pip3](https://pypi.org/project/pip/)
 - [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
 
 It is recommended to install CoAPthon3 directly from Github:
