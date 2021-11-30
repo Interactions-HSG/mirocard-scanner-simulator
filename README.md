@@ -8,7 +8,7 @@ The Thing provides the following observable properties:
 
 ## Dependencies
 - [Python3](https://www.python.org/downloads/)
-- [pip3]
+- [pip3](https://pip.pypa.io/en/stable/installation/)
 - [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
 
 It is recommended to install CoAPthon3 directly from Github (requires Git)
