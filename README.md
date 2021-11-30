@@ -43,9 +43,11 @@ Run an example client that observes all the resources of the MiroCard gateway:
 $ python3 coapclient.py
 ```
 Optionally, you can specify which resources the client observes using one or more of the following parameters:
-- `-hm`, `--humidity`: observe the humidity
-- `-p`, `--pose`: observe the pose
-- `-t`, `--temperature`: observe the temperature
+| Parameter         | Description             |
+|-------------------|-------------------------|
+| -hm, --humidity   | Observe the humidity    |
+| -p, --pose        | Observe the pose        |
+| -t, --temperature | Observe the temperature |
 
 E.g.:
 ```
