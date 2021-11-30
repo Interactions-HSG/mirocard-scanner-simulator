@@ -40,7 +40,7 @@ $ python3 coapserver.py
 ## Run an example CoAP client
 Run an example client that observes all the resources of the MiroCard gateway:
 ```
-$ python3 coapclient.py
+$ python3 examples/coapclient.py
 ```
 Optionally, you can specify which resources the client observes using one or more of the following parameters:
 | Parameter         | Description             |
@@ -51,5 +51,5 @@ Optionally, you can specify which resources the client observes using one or mor
 
 E.g.:
 ```
-$ python3 coapclient.py --humidity --pose
+$ python3 examples/coapclient.py --humidity --pose
 ```
