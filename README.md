@@ -18,7 +18,7 @@ Simulated samping rates:
 - [pip3](https://pip.pypa.io/en/stable/installation/)
 - [CoAPthon3](https://github.com/Tanganelli/CoAPthon3)
 
-It is recommended to install CoAPthon3 directly from Github
+It is recommended to install CoAPthon3 directly from Github:
 ```
 $ git clone https://github.com/Tanganelli/CoAPthon3.git
 $ cd CoAPthon3
