@@ -46,6 +46,7 @@ Optionally, you can specify which resources the client observes using optional p
 - `-hm`, `--humidity`: observe the humidity
 - `-p`, `--pose`: observe the pose
 - `-t`, `--temperature`: observe the temperature
+
 E.g.:
 ```
 $ python3 coapclient.py --humidity --pose
